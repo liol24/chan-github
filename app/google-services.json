@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424986070891",
+    "project_id": "capstone-dfd37",
+    "storage_bucket": "capstone-dfd37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424986070891:android:3d8c69c82d725a5648062e",
+        "android_client_info": {
+          "package_name": "com.cockandroid.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424986070891-19pfmqg0u467m9btlk8on75f2lut6614.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHfwY8nT9OgLWQ3BsJFHe2rNCJc_mzRls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424986070891-19pfmqg0u467m9btlk8on75f2lut6614.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
